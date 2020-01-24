@@ -1,0 +1,24 @@
+{
+  "name": "cypress-tutorial",
+  "version": "1.0.0",
+  "description": "> Companion repo for JavaScript End to End Testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentinogagliardi/cypress-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valentinogagliardi/cypress-tutorial/issues"
+  },
+  "homepage": "https://github.com/valentinogagliardi/cypress-tutorial#readme",
+  "devDependencies": {
+    "cypress": "^3.8.2",
+    "prettier": "^1.19.1"
+  }
+}
